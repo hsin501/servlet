@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;JSP/src/main/webapp/ｍ08/m07_PostSession.html&apos; to &apos;PostSession.html&apos;" description="Rename resource &apos;m07_PostSession.html&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/main/webapp/ｍ08/m07_PostSession.html" name="PostSession.html" stamp="1678168277655" updateReferences="true"/>
+</session>

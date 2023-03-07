@@ -1,0 +1,19 @@
+<%@ page language="java" contentType="text/html; charset=UTF-8"
+    pageEncoding="UTF-8"%>
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Using JavaBean with JSP</title>
+</head>
+<body>
+<div align="center">
+<h3>Using JavaBean with JSP</h3>
+<jsp:useBean id="order" class="com.lcapn.bean.OrderBean" scope="request"></jsp:useBean>
+
+
+
+</div>
+
+</body>
+</html>

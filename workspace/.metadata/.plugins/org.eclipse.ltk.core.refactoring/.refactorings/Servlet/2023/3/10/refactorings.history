@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;m07_PostSession.html&apos; to &apos;ｍ08&apos;&#x0D;&#x0A;- Original project: &apos;Servlet&apos;&#x0D;&#x0A;- Destination element: &apos;ｍ08&apos;&#x0D;&#x0A;- Original element: &apos;m07_PostSession.html&apos;" description="Copy file" element1="src/main/webapp/html/m07_PostSession.html" files="1" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1678168263963" target="/JSP/src/main/webapp/ｍ08" units="0" version="1.0"/>
+</session>
